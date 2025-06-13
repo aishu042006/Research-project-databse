@@ -59,7 +59,8 @@ The database consists of the following tables:
 ![image](https://github.com/user-attachments/assets/6b62acb6-3a16-4b0c-9ffe-a51eec67bb9d)
 
 
-![image](https://github.com/user-attachments/assets/3762db35-b54b-4153-af45-9d9f506d215b)
+![P2](https://github.com/user-attachments/assets/9664c2e2-62bc-4e0c-8464-4965785a1fcc)
+
 
 
 
