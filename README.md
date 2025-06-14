@@ -1,4 +1,4 @@
-# 🔍 Research Projects Database – My First ER & SQL Project!
+Databases Projects
 
 📍 **NIAT Hyderabad** | 🎓 *1st Year Student*
 
