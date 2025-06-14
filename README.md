@@ -27,7 +27,7 @@ This involved designing a complete **Entity-Relationship (ER) schema** and writi
 
 ## 🔗 GitHub Repository
 
-[Check it out here](https://github.com/Priya9096/Database-Projects)
+[Check it out here](https://github.com/aishu042006/Research-project-databse)
 
 ---
 
